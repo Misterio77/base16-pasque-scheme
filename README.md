@@ -5,4 +5,4 @@ Feel free to use or remix it as you please <3
 The darkest colors (01 and 02) are intentionaly swapped, so backgrounds are normally a bit lighter than tile bars.
 
 ## Palette
-![Palette](https://raw.githubusercontent.com/Misterio77/base16-pasque/master/pasque.png)
+![Palette](https://raw.githubusercontent.com/Misterio77/base16-pasque-scheme/master/pasque.png)
