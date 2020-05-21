@@ -1,0 +1,20 @@
+scheme: "Pasque"
+author: "Gabriel Fontes (https://github.com/Misterio77)"
+
+base00: "100323"
+base01: "271C3A"
+base02: "3E2D5C"
+base03: "5D5766"
+base04: "BEBCBF"
+base05: "DEDCDF"
+base06: "EDEAEF"
+base07: "BBAADD"
+
+base08: "5D3680" //Pasque
+base09: "A92258" //Pink
+base0A: "C6914B" //Gold
+base0B: "7263AA" //Lavender
+base0C: "918889" //Gray
+base0D: "8E7DC6" //Blue
+base0E: "953B9D" //Violet
+base0F: "59325C" //Magenta
