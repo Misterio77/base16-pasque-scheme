@@ -3,4 +3,5 @@ Pasque is a Purple and Gold theme created by me for [base16](https://github.com/
 Feel free to use or remix it as you please <3
 
 ## Palette
-![Palette](https://raw.githubusercontent.com/Misterio77/base16-pasque-scheme/master/pasque.png)
+![Palette](https://raw.githubusercontent.com/Misterio77/base16-pasque-scheme/master/palette.png)
+![Palette accents](https://raw.githubusercontent.com/Misterio77/base16-pasque-scheme/master/palette-1.png)
